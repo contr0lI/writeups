@@ -1,28 +1,44 @@
 {
-  "writeups": {
-    "noel": {
-      "adventofcode": {
-        "1": "",
-        "2": "",
-        "3": "",
-        "4": "",
-        "5": ""
-      },
-      "osint4fun": {
-        "1": "",
-        "2": "",
-        "3": "",
-        "4": "",
-        "5": ""
-      }
+  ".": {
+    "readme": ""
+  },
+  "noel": {
+    "readme": "",
+    "adventofcode": {
+      "readme": ""
     },
-    "offensivewave": {
-      "writeup1": "Content of writeup1",
-      "writeup2": "Content of writeup2"
-    },
-    "rootme": {
-      "writeup3": "Content of writeup3",
-      "writeup4": "Content of writeup4"
+    "osint4fun": {
+      "readme": ""
     }
+  },
+  "offensivewave": {
+    "readme": "",
+    "cryptology": {},
+    "forensics": {},
+    "network": {},
+    "osint": {},
+    "programming": {},
+    "reverse": {},
+    "steganography": {},
+    "web": {}
+  },
+  "ozint": {
+    "readme": ""
+  },
+  "rootme": {
+    "readme": "",
+    "app-script": {},
+    "app-system": {},
+    "cracking": {},
+    "cryptanalyse": {},
+    "forensics": {},
+    "network": {},
+    "programming": {},
+    "steganography": {},
+    "web-client": {},
+    "web-server": {}
+  },
+  "tryhackme": {
+    "readme": ""
   }
 }
