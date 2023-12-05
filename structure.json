@@ -1,0 +1,28 @@
+{
+  "writeups": {
+    "noel": {
+      "adventofcode": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": ""
+      },
+      "osint4fun": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": ""
+      }
+    },
+    "offensivewave": {
+      "writeup1": "Content of writeup1",
+      "writeup2": "Content of writeup2"
+    },
+    "rootme": {
+      "writeup3": "Content of writeup3",
+      "writeup4": "Content of writeup4"
+    }
+  }
+}
